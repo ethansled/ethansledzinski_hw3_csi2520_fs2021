@@ -68,8 +68,15 @@ iframe{
  }
 
  .menu{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-radius: 100%;
+    border-style: solid;
     display: block;
     float: right;
+    padding: 2%;
+    margin: 6%;
     clear: both; 
     overflow: auto;
  }
