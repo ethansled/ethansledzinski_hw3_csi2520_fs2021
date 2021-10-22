@@ -69,7 +69,7 @@ iframe{
 
  .menu{
     display: block;
-    float: right;
+    float: right !important; 
     margin: 0.5%;
     padding: 1%;
     overflow: auto;
