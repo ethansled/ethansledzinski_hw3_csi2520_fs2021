@@ -1,0 +1,109 @@
+head{
+    color: #005689;
+    background-color: #d5eeff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    color: #005689;
+    background-color: #d5eeff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-style: solid;
+}
+
+h2{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-style: solid;
+}
+
+ img{
+     border: #007cb9;
+     border-style: solid;
+ }
+
+ label, progress{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-style: solid;
+ }
+
+ footer{
+     text-align: center;
+ }
+
+ blockquote{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-radius: 30%;
+    border-style: solid;
+    text-align: center;
+ }
+
+iframe{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-radius: 10%;
+    border-style: solid;
+    text-align: center;
+ }
+
+ audio{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-radius: 10%;
+    border-style: solid;
+    text-align: center;
+ }
+
+ .menu{
+    display: block;
+    float: right;
+    margin: 1%;
+    padding: 1%;
+ }
+
+ .logo{
+    display: block;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 95%;
+    padding: 2%;
+    
+ }
+
+
+ #intro{
+    color: #005689;
+    background-color: #ff895d;
+    border: #007cb9;
+    border-style: solid;
+    text-align: left;
+ }
+
+ #intro::first-letter{
+     color: #007cb9;
+     font-style: oblique;
+     font-size: 225%;
+ }
+
+ a:hover{
+    background-color: #ffff00;
+    font-size: 100%;
+    color: #005689; 
+ }
+
+ .active{
+    background-color: #ffff00; 
+ }
